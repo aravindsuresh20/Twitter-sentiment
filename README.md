@@ -1,9 +1,4 @@
-It sounds like you have a good understanding of why your plain text isn't rendering as Markdown on GitHub. 
-You need to apply Markdown syntax to format your README.md file correctly.
 
-Here's your project's README.md content, formatted with Markdown, ready to be pasted directly into a README.md file on GitHub:
-
-Markdown
 
 # Twitter Sentiment Analysis and Excel Reporting
 
@@ -72,7 +67,8 @@ Prepare your input CSV file (twitter_dataset.csv by default) with a
 
 Run the twitter.py script.
 
-The script will process the data, perform sentiment analysis, and save the results to the specified output_file (e.g., twitter_dataset_colored.xlsx).
+The script will process the data, perform sentiment analysis,
+ and save the results to the specified output_file (e.g., twitter_dataset_colored.xlsx).
 
 Open the generated Excel file to view the sentiment, sentiment percentage,
 sentiment score, and the color-coded 'Sentiment' column.
